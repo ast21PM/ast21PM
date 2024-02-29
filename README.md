@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I study at the physics department of group 21 "PM"
 
-* 🌍  I'm based in Россия
+* 🌍  I'm based in Russia
 * ✉️  You can contact me at [nikanika773@yandex.ru](mailto:nikanika773@yandex.ru)
 * 🧠  I'm learning html, css, javascript
 
