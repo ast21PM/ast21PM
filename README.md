@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikita Goltsov
 ======================================================================================================================================
 
-Я учусь на физ-мате группы 21"ПМ"
+I study at the physics department of group 21 "PM"
 
 * 🌍  I'm based in Россия
 * ✉️  You can contact me at [nikanika773@yandex.ru](mailto:nikanika773@yandex.ru)
