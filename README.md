@@ -1,12 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikita Goltsov
-======================================================================================================================================
-
-I study at the physics department of group 21 "PM"
-
-* 🌍  I'm based in Russia
-* ✉️  You can contact me at [nikanika773@yandex.ru](mailto:nikanika773@yandex.ru)
-* 🧠  I'm learning html, css, javascript
-
 ### Skills
 
 
