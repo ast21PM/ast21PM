@@ -1,18 +1,29 @@
 # Hi there 👋, I'm ast21PM
 
-I am passionate about programming and constantly learning new technologies. My interests span across embedded systems, web development, and mobile applications.
+I am passionate about programming and constantly learning new technologies. My interests span across embedded systems, web development, and mobile applications. 
 
 ## 💻 Tech Stack
 
 ### Web Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-2b2b2b?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-2b2b2b?style=flat-square&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-2b2b2b?style=flat-square&logo=nodedotjs)
+![React](https://img.shields.io/badge/React-2b2b2b?style=flat-square&logo=react)
+![Vue.js](https://img.shields.io/badge/Vue.js-2b2b2b?style=flat-square&logo=vuedotjs)
 ![HTML5](https://img.shields.io/badge/HTML5-2b2b2b?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-2b2b2b?style=flat-square&logo=css3)
 
 ### Software & Embedded Development
 ![Python](https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/C%2B%2B-2b2b2b?style=flat-square&logo=c%2B%2B)
+![C](https://img.shields.io/badge/C-2b2b2b?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/Java-2b2b2b?style=flat-square&logo=openjdk)
+![Erlang](https://img.shields.io/badge/Erlang-2b2b2b?style=flat-square&logo=erlang)
 ![Arduino](https://img.shields.io/badge/Arduino-2b2b2b?style=flat-square&logo=arduino&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2b2b2b?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/Git-2b2b2b?style=flat-square&logo=git)
 
 ### Mobile Development
 ![Android](https://img.shields.io/badge/Android-2b2b2b?style=flat-square&logo=android&logoColor=white)
