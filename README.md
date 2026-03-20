@@ -32,6 +32,7 @@ I am passionate about programming and constantly learning new technologies. My i
 ### Design & 3D
 ![Photoshop](https://img.shields.io/badge/Photoshop-2b2b2b?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-2b2b2b?style=flat-square&logo=blender)
+![Figma](https://img.shields.io/badge/Figma-2b2b2b?style=flat-square&logo=figma&logoColor=white)
 
 ## 📊 GitHub Stats
 
